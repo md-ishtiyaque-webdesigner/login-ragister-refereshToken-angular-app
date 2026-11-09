@@ -1,5 +1,7 @@
-# Northstar authentication workspace
+# Authentication workspace 
+Live Demo: https://auth-angular-app.netlify.app
 
+# Overview
 Angular 21 standalone application with separate login, registration, and dashboard pages. All TypeScript, HTML, and SCSS are kept in separate files.
 
 ## Run locally
